@@ -24,4 +24,5 @@ This mini-project is an application and comparaison between Ensemble-learning me
 * AdaBoostClassifier: 0.96
 * GradientBoostingClassifier: 0.964
 * StackingClassifier: 0.96
+# Discussion:
 In general, ensemble learning methods perform better than each indivual method ensembling it.
